@@ -1,0 +1,27 @@
+{
+  "name": "wickedgoodelixir",
+  "version": "1.0.0",
+  "description": "2016 Wicked Good Elixir Conference",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-postcss": "^6.0.1",
+    "narwin-pack": "0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WickedGoodConferences/elixir.git"
+  },
+  "author": "DockYard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WickedGoodConferences/elixir/issues"
+  },
+  "homepage": "https://github.com/WickedGoodConferences/elixir#readme"
+}
