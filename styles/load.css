@@ -1,0 +1,12 @@
+:root {
+  --blue: #96dbe5;
+  --orange: #f7a700;
+  --purple: #3c1151;
+    --d-purple40: rgba(41,14,56,.4);
+  --white: #ffffff;
+    --white60: rgba(255,255,255,.6);
+  --yellow10: rgba(248,231,28,.1);
+
+  --regular: 400;
+  --x-bold: 900;
+}
